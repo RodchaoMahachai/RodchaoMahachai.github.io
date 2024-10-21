@@ -124,6 +124,7 @@ button.white{
 /*Home page*/
 #hero{
     background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/fs/b1eca884922555.5d86dca91ce67.jpg");
+    /*background-image: url("https://i.postimg.cc/vHstcB1M/image.png");*/ 
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -136,16 +137,18 @@ button.white{
 }
 
 #hero a{
-  text-decoration:none
+  text-decoration:none;
 }
 
 #hero h4{
     padding-bottom: 15px;
     color: rgb(202, 201, 201);
+    /*color: rgb(91, 91, 91);*/
 }
 
 #hero h2{
     color: rgb(255, 255, 255);
+    /*color: rgb(237, 86, 86);*/
 }
 
 #hero button {
