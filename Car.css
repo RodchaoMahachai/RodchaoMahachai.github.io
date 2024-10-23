@@ -588,6 +588,12 @@ footer .copyright {
   #header{
     padding: 20px 40px;
   }
+
+  .container {
+    margin: 0 12.5%;
+    padding: 2rem 5%;
+    width: 40vh;
+  }
 }
 
 @media (max-width:500px){
@@ -774,7 +780,7 @@ footer .copyright {
   }
 
   .container {
-    margin: 0 1px;
+    margin: 0 12.5%;
     padding: 2rem;
     width: 40vh;
   }
@@ -871,7 +877,7 @@ footer .copyright {
   }
 
   .container {
-    margin: 0 1px;
+    margin: 0 12.5%;
     padding: 2rem;
     width: 40vh;
   }
