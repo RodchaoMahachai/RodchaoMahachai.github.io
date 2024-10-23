@@ -592,7 +592,7 @@ footer .copyright {
 
 @media (max-width:500px){
   .section-p1{
-    margin: 40px 115px;
+    margin: 40px 15px;
   }
 
   footer{
@@ -677,9 +677,14 @@ footer .copyright {
   }
 
   .container {
-    margin: 0 1px;
-    padding: 2rem;
+    margin: 0 auto;
+    padding: 2rem 5%;
     width: 40vh;
+  }
+
+  #FAQ body {
+    margin: auto auto;
+    padding: 0;
   }
 
   #header{
