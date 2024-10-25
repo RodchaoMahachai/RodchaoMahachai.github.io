@@ -252,7 +252,7 @@ button.white{
 /*----------------------*/
 #sm-banner{
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   flex-wrap: wrap;
 }
 
@@ -499,7 +499,7 @@ footer .copyright {
   margin-top: 50px;
 }
 
-@media (max-width:1024px){
+@media (max-width:1640px){
   .section-p1{
     margin: 40px 115px;
   }
@@ -587,6 +587,12 @@ footer .copyright {
 
   #header{
     padding: 20px 40px;
+  }
+
+  .container {
+    margin: 0 12.5%;
+    padding: 2rem 5%;
+    width: 40vh;
   }
 }
 
@@ -677,14 +683,9 @@ footer .copyright {
   }
 
   .container {
-    margin: 0 auto;
+    margin: 0 12.5%;
     padding: 2rem 5%;
     width: 40vh;
-  }
-
-  #FAQ body {
-    margin: auto auto;
-    padding: 0;
   }
 
   #header{
@@ -779,7 +780,7 @@ footer .copyright {
   }
 
   .container {
-    margin: 0 1px;
+    margin: 0 12.5%;
     padding: 2rem;
     width: 40vh;
   }
@@ -876,7 +877,7 @@ footer .copyright {
   }
 
   .container {
-    margin: 0 1px;
+    margin: 0 12.5%;
     padding: 2rem;
     width: 40vh;
   }
